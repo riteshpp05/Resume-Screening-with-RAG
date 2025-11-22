@@ -1,6 +1,10 @@
 
 # 🧠 Resume Screening with RAG (Streamlit + Gemini)
 
+🔗 Live Demo
+
+https://resume-screening-with-rag-xoysv5tozanstu2rauwkzg.streamlit.app/
+
 This project is a simple **AI-powered Resume Screening Tool** built for the JobTalk backend assessment idea.
 
 It lets a recruiter:
