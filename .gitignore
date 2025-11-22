@@ -1,0 +1,65 @@
+# -------------------------
+# Python cache & bytecode
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# -------------------------
+# Virtual Environment
+# -------------------------
+venv/
+ENV/
+env/
+.venv/
+
+# -------------------------
+# Environment Variables
+# -------------------------
+.env
+.env.*
+*.env
+
+# -------------------------
+# Streamlit Cache
+# -------------------------
+.streamlit/
+.streamlit/secrets.toml
+
+# -------------------------
+# FAISS or Vector Indexes
+# -------------------------
+*.faiss
+*.index
+
+# -------------------------
+# Logs & temp files
+# -------------------------
+*.log
+*.tmp
+*.swp
+*.bak
+
+# -------------------------
+# OS Generated Files
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# IDE settings
+# -------------------------
+.vscode/
+.idea/
+*.iml
+
+# -------------------------
+# Build / dist
+# -------------------------
+build/
+dist/
+*.egg-info/

@@ -1,0 +1,56 @@
+
+Job Title: AI / Machine Learning Engineer
+Location: Remote / Hybrid
+Experience Level: Entry to Mid-Level
+
+About the Role
+We are looking for an AI / Machine Learning Engineer to design, develop, and deploy intelligent systems that support automation, prediction, and data-driven decision making. The ideal candidate has strong foundations in machine learning, deep learning, and hands-on experience with model development.
+
+Key Responsibilities
+- Build, train, and evaluate machine learning and deep learning models
+- Work with LLMs and Retrieval-Augmented Generation (RAG) pipelines
+- Develop data preprocessing and feature engineering workflows
+- Implement NLP, computer vision, or predictive analytics solutions
+- Deploy models using APIs, Docker, or cloud services
+- Collaborate with product and engineering teams
+- Maintain documentation and experiment tracking
+
+Required Skills
+- Strong proficiency in Python
+- Experience with ML frameworks (TensorFlow / PyTorch / Scikit-learn)
+- Knowledge of Generative AI and LLMs
+- Understanding of vector databases (Pinecone, FAISS, Chroma)
+- Data handling with Pandas / NumPy
+- Experience with embeddings, model evaluation, and inference
+- Familiarity with Git and version control
+
+Preferred Skills
+- Experience with AWS / GCP / Azure
+- Knowledge of LangChain, RAG systems, or agent frameworks
+- Containerization using Docker
+- Streamlit / FastAPI for deployment
+- Experience with NLP, YOLO, or multimodal models
+
+Education
+- Bachelor’s or Master’s degree in:
+  - Computer Science
+  - Artificial Intelligence
+  - Data Science
+  - Engineering
+  - Or relevant equivalent experience
+
+Nice To Have
+- Kaggle / research exposure
+- Published AI projects
+- Experience with model optimization
+
+Compensation
+- Competitive salary
+- Performance incentives
+- Work-from-home flexibility
+
+How to Apply
+Submit:
+- Resume
+- Project portfolio or GitHub
+- Short statement of interest

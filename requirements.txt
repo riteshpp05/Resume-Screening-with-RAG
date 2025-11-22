@@ -1,0 +1,18 @@
+streamlit
+PyPDF2
+
+# LangChain + ecosystem (compatible set)
+langchain==0.2.6
+langchain-core==0.2.10
+langchain-community==0.2.6
+langchain-text-splitters==0.2.2
+langchain-google-genai==1.0.7
+langsmith==0.1.82
+
+# Google SDK
+google-genai==1.7.0
+
+# Vector store + local embeddings
+faiss-cpu
+sentence-transformers
+python-dotenv
